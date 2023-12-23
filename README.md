@@ -18,4 +18,4 @@ I'm an aspiring back-end developer actively engaged in learning and exploring th
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrRiten&theme=github_dark" alt=""/>
 </div>
 
-Feel free to reach out for collaboration, discussions, or just to say hi! 😊
+#No sleep, no rest!
