@@ -1,31 +1,31 @@
-# Hi there! 👋
+# Hello, I'm Riten! 👋
 
-I'm an aspiring back-end developer actively engaged in programming education. I have a passion for tackling complex and intriguing challenges.
+I'm an enthusiastic back-end developer actively learning and expanding my programming skills. I thrive on tackling complex and intriguing challenges.
 
-## About Me
+📍 Based in Russia
 
-- 🌍 Based in: Russia
-- 📚 Currently learning: Back-end Development
-- 💡 Interested in: Solving challenging problems
-
-## Skills
+## 🚀 My Skills
 
 ### Languages
-- Python
-<img scr='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/csharp/csharp-original.svg'>
-- C++
-- SQL
-- JavaScript
+[![Python](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg)](https://www.python.org/)
+[![C#](https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![C++](https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg)](https://www.cplusplus.com/)
+[![SQL](https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg)](https://www.mysql.com/)
+[![JavaScript](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ### Frameworks
-- ASP.Net MVC
-- .Net Core/Framework
-- Django
+[![ASP.Net MVC](https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg)](https://docs.microsoft.com/en-us/aspnet/mvc/)
+[![Django](https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg)](https://www.djangoproject.com/)
 
-## Connect with Me
+## 📈 GitHub Stats
 
-Feel free to connect with me and discuss anything related to programming or tech!
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide=issues&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[LinkedIn](your-linkedin-profile-link)
-[Twitter](your-twitter-profile-link)
-[Portfolio](your-portfolio-or-blog-link)
+## 📬 Let's Connect
+
+Feel free to reach out! I'm always open to new opportunities and collaborations.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-linkedin-profile/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2)](https://twitter.com/your-twitter-handle/)
+
+Happy coding! 🚀
