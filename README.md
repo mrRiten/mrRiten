@@ -10,8 +10,8 @@ I'm an aspiring back-end developer actively engaged in learning and exploring th
 ## Tools & Languages 🛠️
 
 <h3 align="left">Languages and Tools:</h3>
-<img src="https://cdn.jsdelivr.net/gh/devicons/deviconicons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>&nbsp;
+<p><img src="https://cdn.jsdelivr.net/gh/devicons/deviconicons/python/python-original.svg" alt="python" width="40" height="40"/></p>;
+<p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></p>;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="sqlserver" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" alt="dot-net" width="40" height="40"/>&nbsp;
