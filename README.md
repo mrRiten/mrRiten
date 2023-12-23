@@ -9,13 +9,16 @@ I'm an aspiring back-end developer actively engaged in learning and exploring th
 
 ## Tools & Languages 🛠️
 
-- ![Python](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg) Python
-- ![C#](https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg) C#
-- ![C++](https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg) C++
-- ![SQL](https://github.com/devicons/devicon/blob/master/icons/sql/sql-original.svg) SQL
-- ![JavaScript](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg) JavaScript
-- ![ASP.Net MVC](https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg) ASP.Net MVC
-- ![.NET Core/Framework](https://github.com/devicons/devicon/blob/master/icons/dotnet/dotnet-original.svg) .NET Core/Framework
-- ![Django](https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg) Django
+<h3 align="left">Languages and Tools:</h3>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a> 
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+          <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> <a href="https://gulpjs.com" target="_blank" rel="noreferrer">
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+
+
+
 
 Feel free to reach out for collaboration, discussions, or just to say hi! 😊
