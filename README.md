@@ -1,16 +1,31 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**mrRiten/mrRiten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring back-end developer actively engaged in programming education. I have a passion for tackling complex and intriguing challenges.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌍 Based in: Russia
+- 📚 Currently learning: Back-end Development
+- 💡 Interested in: Solving challenging problems
+
+## Skills
+
+### Languages
+- Python
+- C#
+- C++
+- SQL
+- JavaScript
+
+### Frameworks
+- ASP.Net MVC
+- .Net Core/Framework
+- Django
+
+## Connect with Me
+
+Feel free to connect with me and discuss anything related to programming or tech!
+
+[LinkedIn](your-linkedin-profile-link)
+[Twitter](your-twitter-profile-link)
+[Portfolio](your-portfolio-or-blog-link)
