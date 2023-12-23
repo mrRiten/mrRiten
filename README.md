@@ -12,7 +12,7 @@ I'm an aspiring back-end developer actively engaged in programming education. I 
 
 ### Languages
 - Python
-- C#
+<img scr='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/csharp/csharp-original.svg'>
 - C++
 - SQL
 - JavaScript
