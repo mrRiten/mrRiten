@@ -5,7 +5,9 @@ I'm an aspiring back-end developer actively engaged in learning and exploring th
 ## About Me 🌍
 
 - 🌐 Based in Russia
-- 📘 Currently learning and expanding my skills in back-end development on ASP.Net
+- 🔰 Junior back-end developer on ASP.Net and FastAPI Frameworks
+- ⚛️ Continue to master new programming technologies.
+
 ## Languages and Tools:
 
 <a href="https://learn.microsoft.com/ru-ru/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a><a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/mcalec-dev/devicons/ca28c779441053191ff11710fe24a9e6c23690d6/icons/java/java-original.svg" alt="java" width="40" height="40"/></a><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
