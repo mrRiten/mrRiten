@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm an aspiring back-end developer actively engaged in learning and exploring the world of programming. I have a passion for tackling complex and intriguing challenges.
+I am a server developer who is actively developing in my profession. I am improving my skills to solve problems effectively.
 
 ## About Me 🌍
 
