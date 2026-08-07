@@ -1,12 +1,11 @@
 # Hi there! 👋
 
-I am a server developer who is actively developing in my profession. I am improving my skills to solve problems effectively.
+Just a back-end developer
 
-## About Me 🌍
+## About Me
 
-- 🌐 Based in Russia
-- 🔰 Junior back-end developer on ASP.Net and FastAPI Frameworks
-- ⚛️ Continue to master new programming technologies.
+- Based in Russia
+- Usually programming on .Net and Python
 
 ## Languages and Tools:
 
